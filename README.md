@@ -1,2 +1,3 @@
 # QbeFight
- main game
+ ∞
+ 
